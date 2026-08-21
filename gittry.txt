@@ -1,3 +1,6 @@
 gittry
 
-git init : creé un espace pour git(mettre si inexistant )
+git init : creé un espace pour git (mettre si inexistant )
+git remote add origin https://github.com/gitmuffing/hub.git
+git commit -m "tentative"
+git push --set-upstream origin master
