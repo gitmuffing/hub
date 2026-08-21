@@ -1,8 +1,9 @@
 gittry
 
 git init : creé un espace pour git (mettre si inexistant )
-git remote add origin https://github.com/gitmuffing/hub.git
+git remote add origin https://github.com/gitmuffing/hub.git : si je veut faire des actions sur le fichier en ligne
 git commit -m "" *2
 git push --set-upstream origin master *3
 git add #fichier *1
-*1*2*3 faire ces choses dans l'ordre des chiffres pour appliquer des changements
+git pull : appliquer les cheangement en local
+*1*2*3 faire ces choses dans l'ordre des chiffres pour appliquer des changements en ligne
