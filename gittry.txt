@@ -1,0 +1,3 @@
+gittry
+
+git init : creé un espace pour git(mettre si inexistant )
